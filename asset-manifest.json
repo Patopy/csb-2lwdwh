@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://patopy.github.io/csb-2lwdwh/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://patopy.github.io/csb-2lwdwh/static/js/main.8befb36e.chunk.js",
+    "main.js.map": "https://patopy.github.io/csb-2lwdwh/static/js/main.8befb36e.chunk.js.map",
+    "runtime-main.js": "https://patopy.github.io/csb-2lwdwh/static/js/runtime-main.35b625a0.js",
+    "runtime-main.js.map": "https://patopy.github.io/csb-2lwdwh/static/js/runtime-main.35b625a0.js.map",
+    "static/js/2.7533e9e0.chunk.js": "https://patopy.github.io/csb-2lwdwh/static/js/2.7533e9e0.chunk.js",
+    "static/js/2.7533e9e0.chunk.js.map": "https://patopy.github.io/csb-2lwdwh/static/js/2.7533e9e0.chunk.js.map",
+    "index.html": "https://patopy.github.io/csb-2lwdwh/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://patopy.github.io/csb-2lwdwh/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.7533e9e0.chunk.js.LICENSE.txt": "https://patopy.github.io/csb-2lwdwh/static/js/2.7533e9e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35b625a0.js",
+    "static/js/2.7533e9e0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8befb36e.chunk.js"
+  ]
+}
